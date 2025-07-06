@@ -1,4 +1,4 @@
-name: Environments
+name: Environment
 on:
   workflow_dispatch:
     inputs:
